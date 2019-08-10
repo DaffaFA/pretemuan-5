@@ -1,0 +1,35 @@
+body {
+    background-color: #000;
+}
+p#has {
+    font-family: Arial Narrow;
+    color: green;
+    font-size: 18pt;
+    font-weight: bold;
+    background-color: #0099ff;
+}
+
+li {
+    color: #16d3d3;
+}
+h3 {
+    color: blueviolet;
+}
+.warnaan {
+    color: pink;
+}
+#buled {
+    border-radius: 25rem;
+}
+
+.inibeda {
+    border-bottom: #aaa 1px solid;
+    transition: 0.5s;
+    font-size: 18pt;
+
+    background-color: white; 
+    color: pink;
+}
+span {
+    color: red;
+}
